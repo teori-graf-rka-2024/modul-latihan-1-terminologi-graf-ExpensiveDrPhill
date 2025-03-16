@@ -21,3 +21,4 @@ def find_shortest_path(G: nx.Graph, source: int, target: int) -> list[int]:
 def visualize_graph(G: nx.Graph) -> None:
     nx.draw(G, with_labels=True)
     plt.show()
+#biar muncul
